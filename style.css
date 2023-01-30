@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.homepage{
+    display: flex;
+    flex-direction: column;
+}
+
+.gyanganga-heading{
+    color: rgb(83, 4, 99);
+    text-align: center;
+    font-size: 2.2rem;
+    padding: 2rem;
+}
+
+
+
+.home-image{
+    margin: 0.5rem;
+}
+
+.navigation--bar{
+    display: flex;
+    justify-content: space-between;
+    height: 5rem;
+    background: rgb(133, 10, 133);
+    align-items: center;
+}
+
+.nav--name{
+    color: #fff;
+    font-size: 1.5rem;
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+}
+
+.nav--name:hover{
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#icon{
+    color: #fff;
+    padding-right: 1rem;
+    padding-top: 0.5rem;
+}
+
+.gyan-head{
+    color: rgb(83, 4, 99);
+    text-align: center;
+    font-size: 2.3rem;
+    padding: 2.2rem;
+}
+
+.reasons{
+    display: flex;
+    flex-direction: column;
+    margin: 3.5rem;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+#laptop{
+    padding: 2rem;
+    padding-bottom: 2rem;
+    font-size: 5rem;
+}
+
+.founder{
+    background-color: gold;
+    color: rgb(83, 4, 99);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: left;
+    font-size: 1.5rem;
+    border-radius: 6px;
+}
+
+#testimonial{
+    height: 13rem;
+    border-radius: 5px;
+    margin: 2rem;
+}
+
+#akhilesh{
+    font-style: italic;
+    color: blue;
+    font-family: cursive;
+    text-align: right;
+    padding-top: 1.5rem;
+}
+
+.para{
+    color: #777;
+}
+
+.footer{
+    border-radius: 2px;
+    background-color: rgb(83, 4, 99);
+}
+
+.contact{
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.foot{
+    color: #fff;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 1rem;
+}
+
+.foot:hover{
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+li{
+    color: blue;
+    font-style: 3rem;
+}
+.teach{
+    text-align: center;
+    color: darkviolet;
+}
+
+span{
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+    font-weight: bold;
+}
