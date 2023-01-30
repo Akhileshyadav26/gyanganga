@@ -126,10 +126,11 @@
     cursor: pointer;
 }
 
+   
 li{
     color: blue;
-    font-style: 3rem;
-    font-size:1rem;
+    font-size:2rem;
+    list-style : none;  
 }
 .teach{
     text-align: center;
